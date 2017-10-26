@@ -1,0 +1,2 @@
+# SGX_Project_IncidentEmailTemplates
+IncidentEmailTemplates
